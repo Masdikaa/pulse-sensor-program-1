@@ -1,6 +1,4 @@
-Saya akan membuat readme .md pada github 
-
-<h1>Kode program untuk membaca sinyal dari Pulsesensor Heartrate </h1>
+<h3>Kode program untuk membaca sinyal dari Pulsesensor Heartrate </h3>
 <p>Menggunakan <b>Arduino IDE</b> dengan board <b>DOIT ESP32 DEVKIT V1 </b> </p>
 
 References :
